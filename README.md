@@ -1,15 +1,20 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Olá%2C+sou+Gustavo+Amorim+👋;Desenvolvedor+Backend;Python+%7C+Django+%7C+AWS;Sempre+aprendendo+,+construindo;E+automatizando+😉" />
 </div>
-## 👋 Sobre mim
-
-Sou desenvolvedor com foco em **Backend**, apaixonado por criar aplicações robustas, escaláveis e bem estruturadas.
-
-Atualmente trabalho e estudo principalmente com **Python avançado**, frameworks web como **Django e Flask**, bancos de dados relacionais (**PostgreSQL**) e **infraestrutura em nuvem (AWS)**.
-
-Tenho experiência com múltiplas tecnologias, mas meu foco hoje é me aprofundar cada vez mais em **arquitetura backend, APIs, bancos de dados e cloud**.
+<table style="width:100%; border: none;">
+  <tr>
+    <td width="70%">
+      <h1>Olá, sou Gustavo 👋</h1>
+      <p>
+        Desenvolvedor Backend focado em Python, Django, Flask e AWS.
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="Code.gif" width="200"/>
+    </td>
+  </tr>
+</table>
 ## 🛠️ Tecnologias & Ferramentas (Foco)
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python%20Avançado-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -17,9 +22,12 @@ Tenho experiência com múltiplas tecnologias, mas meu foco hoje é me aprofunda
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
-### 🔧 Conhecimentos adicionais
+
+</div>
+<h1>🔧 Conhecimentos adicionais</h1>
 
 <div align="center">
 
@@ -31,31 +39,32 @@ Tenho experiência com múltiplas tecnologias, mas meu foco hoje é me aprofunda
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
-## 🚀 Projetos em Destaque
+<h1>🚀 Projetos em Destaque</h1>
 
 <table>
   <tr>
     <td width="65%">
-      <h3>🔹 Nome do Projeto</h3>
-      <p>Descrição curta do projeto, qual problema resolve e qual seu papel.</p>
+      <h3>🔹 NutriAção</h3>
+      <p>Projeto Acadêmico desenvolvido afim de conectar excedentes a potenciais doadores.</p>
 
 <p>🔗 <strong>GitHub:</strong><br/>
-<a href="https://github.com/seu-usuario/seu-projeto">github.com/seu-usuario/seu-projeto</a></p>
+<a href="https://github.com/NutriAcao/NutriAcao">github.com/amoras1601/NutriAção</a></p>
 
 <p>🛠️ <strong>Stack:</strong></p>
 <ul>
-  <li>Python</li>
-  <li>Django / Flask</li>
+  <li>Node</li>
+  <li>JavaScript</li>
   <li>PostgreSQL</li>
-  <li>AWS</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ul>
     </td>
     <td width="35%">
-      <img src="images/projeto.png" width="300"/>
+      <img src="logo-blue.png" width="300"/>
     </td>
   </tr>
 </table>
-## 📊 Estatísticas do GitHub
+<h1>📊 Estatísticas do GitHub</h1>
 
 <div align="center">
 
@@ -64,7 +73,7 @@ Tenho experiência com múltiplas tecnologias, mas meu foco hoje é me aprofunda
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoras1601&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
-## 📬 Vamos nos conectar?
+<h1>📬 Vamos nos conectar?</h1>
 
 <div align="center">
 
