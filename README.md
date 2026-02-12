@@ -18,6 +18,10 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
     </td>
   </tr>
 </table>
+<p>
+   <br>
+   <br>
+ </p>
 <h1> Tecnologias & Ferramentas </h1>
 <div align="center">
 
@@ -43,7 +47,10 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
+<p>
+   <br>
+   <br>
+ </p>
 </div>
 <h1>🚀 Projetos em Destaque</h1>
  <table>
@@ -68,17 +75,27 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
       </td>
     </tr>
   </table>
-
+<p>
+   <br>
+ </p>
 <h1>📬 Vamos nos conectar?</h1>
 
 <div align="center">
-
-<a href="https://linkedin.com/in/seu-linkedin">
+<p>
+   <br>
+   <br>
+ </p>
+  
+<a href="https://linkedin.com/in/seu-linkedin" style="width:100%; border: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/amoras200">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+ <p>
+   <br>
+   <br>
+   <br>
+ </p>
 </div>
