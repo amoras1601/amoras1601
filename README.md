@@ -68,15 +68,7 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
       </td>
     </tr>
   </table>
-<h1>📊 Estatísticas do GitHub</h1>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amoras1601&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoras1601&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 <h1>📬 Vamos nos conectar?</h1>
 
 <div align="center">
@@ -85,7 +77,7 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/amoras200">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
