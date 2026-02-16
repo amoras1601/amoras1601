@@ -25,7 +25,7 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
 <h1> Tecnologias & Ferramentas </h1>
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python%20Avançado-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -78,6 +78,16 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
 <p>
    <br>
  </p>
+ ## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoras200&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+
+## 📈 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amoras200&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+
 <h1>📬 Vamos nos conectar?</h1>
 
 <div align="center">
