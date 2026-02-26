@@ -78,15 +78,11 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
 <p>
    <br>
  </p>
- ## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoras200&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-
-## 📈 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amoras200&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
+<h1> 📊 GitHub Stats </h1>  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amoras200&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amoras200&layout=compact&langs_count=7&theme=algolia"/>
+</p>
 
 <h1>📬 Vamos nos conectar?</h1>
 
