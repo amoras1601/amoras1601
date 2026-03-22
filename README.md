@@ -6,10 +6,11 @@
     <td width="70%">
       <h1>Olá, sou Gustavo 👋</h1>
       <p>
-        Sou desenvolvedor Backend com foco em Python, atuando principalmente com Django e Flask no desenvolvimento de APIs e aplicações web. Tenho experiência com PostgreSQL para modelagem.
+        Sou desenvolvedor Backend com foco em Python, atualmente estudando Django e Flask no desenvolvimento de APIs e aplicações web; E AWS para deploy, infraestrutura, hospedagem,etc.
+        Tenho experiência com PostgreSQL para modelagem e MongoDB.
 
-Utilizo Linux como ambiente principal de desenvolvimento e possuo familiaridade com deploy, automação e serviços em nuvem, especialmente na AWS. Busco escrever soluções limpas, escaláveis e bem estruturadas, sempre com atenção à performance e manutenibilidade.
-        
+Utilizo Linux como ambiente principal de desenvolvimento; Busco escrever soluções limpas, e seguir rumo a carreira de  <strong>DevOps</strong>, por maior vontade de trabalhar com infra; Tenho familiaridade com terminal, scripts em Bash, automação com Python e gerenciamento de permissões e processos; É o que mais tenho gostado de fazer ultimamente.
+
 Estou em constante aprendizado, aplicando na prática novos conceitos através de projetos próprios, com o objetivo de evoluir tecnicamente e construir sistemas que resolvam problemas reais.
 </p>
     </td>
@@ -26,10 +27,9 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python%20-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 
@@ -41,18 +41,54 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 <p>
    <br>
    <br>
  </p>
 </div>
 <h1>🚀 Projetos em Destaque</h1>
+ <table>
+    <tr>
+      <td width="65%">
+        <h3> Laboratório de Redes e Firewall com Linux </h3>
+        <b>Descrição:</b> Ambiente virtual com duas VMs (KVM) configuradas em rede interna isolada. Implementação de regras de firewall com iptables para controle de acesso SSH e testes de conectividade com ping e nmap.  
+<b>Stack:</b> Linux (Ubuntu Server), KVM, iptables, nmap  
+        
+🔗 https://github.com/amoras200/lab-rede-firewall
+    </tr>
+  </table>
+
+---
+<table>
+    <tr>
+      <td width="65%">
+        <h3> Monitor de Logs de Autenticação </h3>
+        <b>Descrição:</b> Script em Python que analisa logs de autenticação (`/var/log/auth.log`), identifica tentativas de login falhas e alerta quando um IP excede o limite configurável. Demonstra automação, análise de logs e conceitos de segurança.  
+<b>Stack:</b> Python, argparse, regex, Linux 
+        
+🔗 https://github.com/amoras200/monitor_log
+    </tr>
+  </table>
+
+---
+
+<table>
+    <tr>
+      <td width="65%">
+        <h3> Monitor de Recursos do Sistema</h3>
+        <b>Descrição:</b> Script em Python que monitora CPU, memória, disco e processos em tempo real, disparando alertas quando os limites são ultrapassados. Útil para observabilidade e detecção precoce de problemas. 
+<b>Stack:</b> Python, psutil, argparse, Linux
+        
+🔗 https://github.com/amoras200/monitor_recursos
+    </tr>
+  </table>
+
+---
+
  <table>
     <tr>
       <td width="65%">
