@@ -4,16 +4,17 @@
 <table style="width:100%; border: none;">
   <tr>
     <td width="70%">
-      <h1>Olá, sou Gustavo 👋</h1>
-      <p>
-        Sou desenvolvedor Backend com foco em Python, atualmente estudando Django e Flask no desenvolvimento de APIs e aplicações web; E AWS para deploy, infraestrutura, hospedagem,etc.
-        Tenho experiência com PostgreSQL para modelagem e MongoDB.
+  <h1>Olá, sou Gustavo 👋</h1>
+  <p>
+    Estudante de Desenvolvimento de Software, construindo o caminho para a área de <strong>DevOps</strong> — infraestrutura, automação e nuvem são o que mais me atrai no dia a dia de código.
 
-Utilizo Linux como ambiente principal de desenvolvimento; Busco escrever soluções limpas, e seguir rumo a carreira de  <strong>DevOps</strong>, por maior vontade de trabalhar com infra; Tenho familiaridade com terminal, scripts em Bash, automação com Python e gerenciamento de permissões e processos; É o que mais tenho gostado de fazer ultimamente.
+Tenho base em Python, que uso tanto para aplicações backend (Flask) quanto para automação de tarefas e scripts de sistema. Uso Linux como ambiente principal, com familiaridade em terminal, Bash, gerenciamento de processos e permissões.
 
-Estou em constante aprendizado, aplicando na prática novos conceitos através de projetos próprios, com o objetivo de evoluir tecnicamente e construir sistemas que resolvam problemas reais.
-</p>
-    </td>
+Atualmente aplico Docker e AWS (ECR, EC2, IAM) em projetos práticos de containerização e deploy, e avanço em paralelo nos fundamentos de redes. Meus próximos passos são Terraform e CI/CD, para evoluir esses projetos rumo a pipelines completos de infraestrutura como código.
+
+Aprendo construindo: cada conceito novo vira um projeto prático antes de ir para o próximo.
+  </p>
+</td>
     <td width="30%" align="center">
       <img src="Code.gif" width="200"/>
     </td>
@@ -51,6 +52,16 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
  </p>
 </div>
 <h1>🚀 Projetos em Destaque</h1>
+  <table>
+    <tr>
+      <td width="65%">
+        <h3> Docker Homepage com Deploy na AWS </h3>
+        <b>Descrição:</b> Containerização de uma página estática (HTML/CSS) com Docker e publicação da imagem no Amazon ECR. Provisionamento de instância EC2, configuração de acesso via IAM/AWS CLI e execução do container em produção, com limpeza de recursos ao final.  
+<b>Stack:</b> Docker, AWS (ECR, EC2, IAM), AWS CLI, HTML, CSS  
+        
+🔗 https://github.com/amoras200/docker-homepage-aws
+    </tr>
+  </table>
  <table>
     <tr>
       <td width="65%">
@@ -128,7 +139,7 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
    <br>
  </p>
   
-<a href="https://linkedin.com/in/seu-linkedin" style="width:100%; border: none;">
+<a href="https://www.linkedin.com/in/gustavo-amorim1/" style="width:100%; border: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
